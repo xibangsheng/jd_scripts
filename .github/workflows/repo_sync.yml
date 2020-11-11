@@ -25,7 +25,7 @@ jobs:
         if: env.PAT
         with:
           source_repo: "https://gitee.com/bigcandou/jd_scripts.git"
-          source_branch: "jd_scripts"
+          source_branch: "jd_sync"
           destination_branch: "master"
           github_token: ${{ secrets.PAT }}
       # 我自己同步到gitee使用，其他人可忽略
