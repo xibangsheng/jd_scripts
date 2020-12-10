@@ -47,6 +47,7 @@ jobs:
           node jd_pubg.js
           node jd_rankingList.js
           node jd_split.js
+          node jd_syj.js
         env:
           JD_COOKIE: ${{ secrets.JD_COOKIE }}
           JD_DEBUG: ${{ secrets.JD_DEBUG }}
