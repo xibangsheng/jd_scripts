@@ -46,7 +46,6 @@ jobs:
           node jd_syj.js
           node jd_ms_redrain.js
           node jd_live.js
-          node jd_apple_live.js
         env:
           JD_COOKIE: ${{ secrets.JD_COOKIE }}
           JD_DEBUG: ${{ secrets.JD_DEBUG }}
