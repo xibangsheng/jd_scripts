@@ -43,7 +43,6 @@ jobs:
           node jd_car.js
           node jd_kd.js
           node jd_rankingList.js
-          node jd_split.js
           node jd_syj.js
           node jd_ms_redrain.js
           node jd_live.js
