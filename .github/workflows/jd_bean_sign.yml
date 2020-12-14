@@ -42,7 +42,6 @@ jobs:
           node jd_ds.js
           node jd_car.js
           node jd_kd.js
-          node jd_pubg.js
           node jd_rankingList.js
           node jd_split.js
           node jd_syj.js
